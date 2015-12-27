@@ -1,0 +1,45 @@
+style1 {
+	font-family: arial, sans-serif;
+	font-size: 0.8em;
+	text-align: justify;
+	line-height: 2em;
+	color: #000000; }
+
+styleTitle {
+	font-family: arial, sans-serif;
+	font-size: 1.5em;
+	text-align: justify;
+	color: #000000; }
+   
+    
+body {
+	background-color: #fdf6e1;}
+
+
+table {
+	background-color: #ffffff;
+	}
+
+td {
+	font-family: arial, sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	color: #000000;}
+
+    
+a:link {font-family: arial; font-size: 1em; COLOR: #FF6F60; TEXT-DECORATION: none; font-weight: none}
+a:visited {font-family: arial; font-size: 1em; COLOR: #FF6F60; TEXT-DECORATION: none; font-weight: none}
+a:hover {font-family: arial; font-size: 1em; COLOR: #ff9999; TEXT-DECORATION: none; font-weight: none}
+a:active {font-family: arial; font-size: 1em; COLOR: #ff6666; TEXT-DECORATION: none; font-weight: none}
+
+a.inside:link {font-family: arial; COLOR: #cc0000; TEXT-DECORATION: none; font-weight: bold}
+a.inside:visited {font-family: arial; COLOR: #cc0000; TEXT-DECORATION: none; font-weight: bold}
+a.inside:hover {font-family: arial; COLOR: #ff3300; TEXT-DECORATION: none; font-weight: bold}
+a.inside:active {font-family: arial; COLOR: #cc0000; TEXT-DECORATION: none; font-weight: bold}
+
+a.inside2:link {font-family: arial; COLOR: #ffff66; TEXT-DECORATION: none; font-weight: bold}
+a.inside2:visited {font-family: arial; COLOR: #ffcc00; TEXT-DECORATION: none; font-weight: bold}
+a.inside2:hover {font-family: arial; COLOR: #ff9900; TEXT-DECORATION: none; font-weight: bold}
+a.inside2:active {font-family: arial; COLOR: #ff3300; TEXT-DECORATION: none; font-weight: bold}
+
+.hiddenDiv {display:none;}
